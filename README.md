@@ -9,12 +9,12 @@ Go to my [portfolio](https://nguyentanthang.github.io/Web-Portfolio-V2/)
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 Node.js
-* 🖇️ Express.js
-* 🛢️ MongoDB | SQL 
+* 🗣 Node.js | Express.js
+* 🛢️ MongoDB | PostgreSQL 
+* :computer: PHP | Laravel
 * :octocat: Git | Github
 * 🌐 HTML | CSS | JavaScript | React.js
-* ☁ Firebase
+* ☁ Firebase | Heroku | Netlify
 
 ## 📫 Get in touch
 - LinkedIn - [Nguyen Tan Thang](https://www.linkedin.com/in/th%E1%BA%AFng-nguy%E1%BB%85n-t%E1%BA%A5n-a55239187/)

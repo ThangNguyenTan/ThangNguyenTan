@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Nguyen Tan Thang 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Thang Nguyen Tan 👨‍💻
 
 I am a JavaScript enthusiast and Web Developer. I am passionate about technologies and love to learn new things.
 

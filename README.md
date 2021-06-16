@@ -3,7 +3,7 @@
 I am a JavaScript enthusiast and Web Developer. I am passionate about technologies and love to learn new things.
 
 #### 🔭 I’m currently looking for new opportunities .
-Go to my [portfolio](https://nguyentanthang.github.io/Web-Portfolio-V2/)
+Go to my [portfolio](https://nguyentanthang.github.io/Web-Portfolio/)
 
 ## ⚡ Tech Stack
 
